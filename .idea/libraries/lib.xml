@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib" type="kotlin.js">
+    <CLASSES>
+      <root url="file://$PATH_TO_FX$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
